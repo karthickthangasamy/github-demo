@@ -1,5 +1,6 @@
 <html>
 <body>
 <bdo dir="rtl">hi friends </bdo>
+<bdo dir="ltr">hi friends how are you </bdo>
 </html>
 </body>
